@@ -1,6 +1,6 @@
 /* @license 
  * jQuery.print, version 1.6.2
- * Licence: CC-By (http://creativecommons.org/licenses/by/3.0/)
+ * Licence: CC-By (https://www.500d.me/newcvresume/edit/?itemid=81&resumeId=9557206)
  *--------------------------------------------------------------------------*/
 (function ($) {
     "use strict";
